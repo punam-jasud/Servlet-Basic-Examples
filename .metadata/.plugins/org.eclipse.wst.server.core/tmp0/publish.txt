@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Tue Aug 25 19:38:55 IST 2020
+org.eclipse.jst.jee.server\:Login=E\:\\Softwares\\apache-tomcat-9.0.37-windows-x64\\apache-tomcat-9.0.37\\wtpwebapps\\Login
+org.eclipse.jst.jee.server\:First=E\:\\Softwares\\apache-tomcat-9.0.37-windows-x64\\apache-tomcat-9.0.37\\wtpwebapps\\First
+org.eclipse.jst.jee.server\:GenericExample=E\:\\Softwares\\apache-tomcat-9.0.37-windows-x64\\apache-tomcat-9.0.37\\wtpwebapps\\GenericExample
+org.eclipse.jst.jee.server\:TvList=E\:\\Softwares\\apache-tomcat-9.0.37-windows-x64\\apache-tomcat-9.0.37\\wtpwebapps\\TvList
