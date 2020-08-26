@@ -10,9 +10,6 @@ import javax.servlet.ServletResponse;
 
 public class Generic extends GenericServlet {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
 	@Override
