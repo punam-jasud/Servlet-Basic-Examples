@@ -4,7 +4,7 @@
   
   <servlet>
   	<servlet-name>MySearcher</servlet-name>
-  	<servlet-class>MySearcher</servlet-class>
+  	<servlet-class>servlet.MySearcher</servlet-class>
   </servlet>
   
   <servlet-mapping>

@@ -1,5 +1,5 @@
 #Tomcat publish data
-#Wed Aug 26 19:21:53 IST 2020
+#Wed Aug 26 20:00:31 IST 2020
 org.eclipse.jst.jee.server\:sendRedirectExample=E\:\\Softwares\\apache-tomcat-9.0.37-windows-x64\\apache-tomcat-9.0.37\\wtpwebapps\\sendRedirectExample
 org.eclipse.jst.jee.server\:ServletInterfaceExample=E\:\\Softwares\\apache-tomcat-9.0.37-windows-x64\\apache-tomcat-9.0.37\\wtpwebapps\\ServletInterfaceExample
 org.eclipse.jst.jee.server\:GetRequestInterfaceExample=E\:\\Softwares\\apache-tomcat-9.0.37-windows-x64\\apache-tomcat-9.0.37\\wtpwebapps\\GetRequestInterfaceExample
